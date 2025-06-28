@@ -4,7 +4,7 @@
 Group activity to familiarize with git
 
 # Commands
-1. `git init` - initializes a git repository
+1. `git init` - See if this line conflict
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
 3. `git diff` - git difference is used to see the difference
 4. `git add <filename>` 
